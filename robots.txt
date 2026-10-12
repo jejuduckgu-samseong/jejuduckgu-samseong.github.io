@@ -55,4 +55,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://mingnig.github.io/sitemap.xml
+Sitemap: https://jejuduckgu-samseong.github.io/sitemap.xml
